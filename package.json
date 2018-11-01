@@ -24,6 +24,9 @@
     "url": "https://github.com/ihoro/rough-rx-mysql/issues"
   },
   "homepage": "https://github.com/ihoro/rough-rx-mysql#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "rxjs": "^6.3.3"
   }
