@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ihoro/rough-rx-mysql/issues"
   },
-  "homepage": "https://github.com/ihoro/rough-rx-mysql#readme"
+  "homepage": "https://github.com/ihoro/rough-rx-mysql#readme",
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
 }
