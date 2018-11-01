@@ -1,6 +1,7 @@
 # Rx MySQL
 
 [![Build Status](https://travis-ci.com/ihoro/rough-rx-mysql.svg?branch=master)](https://travis-ci.com/ihoro/rough-rx-mysql)
+[![npm version](https://badge.fury.io/js/%40rough%2Frx-mysql.svg)](https://badge.fury.io/js/%40rough%2Frx-mysql)
 
 Rough implementation of [rxified](https://npmjs.com/rxjs) wrapper of [mysql](https://npmjs.com/mysql) lib.
 
