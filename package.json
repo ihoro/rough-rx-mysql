@@ -1,5 +1,5 @@
 {
-  "name": "rough-rx-mysql",
+  "name": "@rough/rx-mysql",
   "version": "1.0.0",
   "description": "A simple RxJS wrapper around official mysql lib",
   "main": "index.js",
